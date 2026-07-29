@@ -1,0 +1,1 @@
+The go language is great. Go is fast and Go is simple. Programming in Go gives great performance for programming tasks.
